@@ -1,5 +1,5 @@
 # Blog
-
+https://blog-mpbs.vercel.app/
 Este projeto consiste em uma aplicação front-end que consome uma API RESTful para exibir posts de um blog e seus respectivos comentários.
 
 A API utilizada neste projeto foi a [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
